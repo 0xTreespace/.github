@@ -1,5 +1,5 @@
 ## Hi there 👋
-Treespace is a decentralized autonomous Organisation that focuses on growning the 1/1 NFT Market on optimism. 
+Treespace is a community owned marketplace for 1/1 NFTs. Currently in development. 
 <!--
 
 **Here are some ideas to get you started:**
